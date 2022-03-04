@@ -1,7 +1,1 @@
-c
-b
-a
-a
-b
-c
-d
+apple
